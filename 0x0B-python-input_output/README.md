@@ -1,0 +1,1 @@
+This repo demonstrates fundamental file handling operations in Python. It includes examples of reading from and writing to files using various methods available in Python, which is an excellent choice for data manipulation tasks.
