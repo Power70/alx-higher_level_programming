@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-__import__('os').write(1, b"#pythoniscool\n")
+(lambda f: f(f))(lambda f: __import__("sys").stdout.write("#pythoniscool\n"))
 
