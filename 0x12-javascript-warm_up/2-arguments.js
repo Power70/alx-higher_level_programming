@@ -2,8 +2,8 @@
 const count = process.argv.length;
 console.log(
   count === 2
-    ? "No argument"
+    ? 'No argument'
     : count === 3
-    ? "Argument found"
-    : "Arguments found"
+      ? 'Argument found'
+      : 'Arguments found'
 );
